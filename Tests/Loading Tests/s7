@@ -1,0 +1,26 @@
+5
+6
+CHARLIE
+0
+G2,Y4,R1,Y3,R6,O4,
+EVE
+0
+R2,Y1,B4,B2,Y2,P4,
+FRANK
+0
+G5,R1,R4,O2,R2,O1,
+STAN
+0
+G2,P3,B6,O5,G3,Y3,
+JOHN
+0
+P3,O4,R3,G6,O3,B2,
+    1  2  3  4  5  6
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |P4|  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+P6,P5,P2,P1,B5,B3,B1,G4,G1,Y6,Y5,O6,R5,P6,P5,P2,P1,B6,B5,B4,B3,B1,G6,G5,G4,G3,G1,Y6,Y5,Y4,Y2,Y1,O6,O5,O3,O2,O1,R6,R5,R4,R3,
+CHARLIE

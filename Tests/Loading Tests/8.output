@@ -1,0 +1,92 @@
+WELCOME TO QWIRKLE!
+-------------------
+Enter 'help' at any time for a list of commands
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+> Please enter the path to the Save Game file
+> CHARLIE's turn
+Score for CHARLIE: 0
+Your hand is:
+G2 Y4 R1 Y3 R6 O4
+    1  2  3  4  5  6
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |P4|  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+> place
+Chose tile to place...
+> Chose position...
+> EVE's turn
+Score for EVE: 0
+Your hand is:
+R2 Y1 B4 B2 Y2 P4
+    1  2  3  4  5  6
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |Y4|P4|  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+> place
+Chose tile to place...
+> Chose position...
+> FRANK's turn
+Score for FRANK: 0
+Your hand is:
+G5 R1 R4 O2 R2 O1
+    1  2  3  4  5  6
+A |  |  |  |  |  |  |
+B |  |B4|  |  |  |  |
+C |  |Y4|P4|  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+> place
+Chose tile to place...
+> Chose position...
+> STAN's turn
+Score for STAN: 0
+Your hand is:
+G2 P3 B6 O5 G3 Y3
+    1  2  3  4  5  6
+A |  |  |  |  |  |  |
+B |  |B4|  |  |  |  |
+C |  |Y4|P4|  |  |  |
+D |  |  |R4|  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+> place
+Chose tile to place...
+> Chose position...
+> JOHN's turn
+Score for JOHN: 0
+Your hand is:
+P3 O4 R3 G6 O3 B2
+    1  2  3  4  5  6
+A |  |  |  |  |  |  |
+B |B6|B4|  |  |  |  |
+C |  |Y4|P4|  |  |  |
+D |  |  |R4|  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+> Enter Filename
+> save
+JOHN's turn
+Score for JOHN: 0
+Your hand is:
+P3 O4 R3 G6 O3 B2
+    1  2  3  4  5  6
+A |  |  |  |  |  |  |
+B |B6|B4|  |  |  |  |
+C |  |Y4|P4|  |  |  |
+D |  |  |R4|  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+> Goodbye!

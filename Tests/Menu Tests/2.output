@@ -1,0 +1,15 @@
+WELCOME TO QWIRKLE!
+-------------------
+Enter 'help' at any time for a list of commands
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+> Error -- Please enter a valid menu item.
+> Error -- Please enter a valid menu item.
+>Error -- Please enter a valid menu item.
+> Error -- Please enter a valid menu item.
+> Goodbye!

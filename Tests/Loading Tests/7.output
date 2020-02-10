@@ -1,0 +1,23 @@
+WELCOME TO QWIRKLE!
+-------------------
+Enter 'help' at any time for a list of commands
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+> Please enter the path to the Save Game file
+> CHARLIE's turn
+Score for CHARLIE: 0
+Your hand is:
+G2 Y4 R1 Y3 R6 O4
+    1  2  3  4  5  6
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |P4|  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+> Goodbye!

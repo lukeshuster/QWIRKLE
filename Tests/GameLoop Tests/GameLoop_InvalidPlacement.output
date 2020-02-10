@@ -1,0 +1,37 @@
+WELCOME TO QWIRKLE!
+-------------------
+Enter 'help' at any time for a list of commands
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+Starting a New Game
+Enter Player Amount
+Enter Board Size
+Player 1, enter your name (uppercase characters only):
+Player 2, enter your name (uppercase characters only):
+
+Let's Play!
+A's turn
+Score for A: 0
+Your hand is:
+P2 Y6 Y3 Y6 P3
+    1  2  3  4  5  6  7  8  9  10
+A |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |  |  |  |  |  |
+E |  |  |  |  |Y3|  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |
+place
+Chose tile to place...
+> Chose position...
+Chose position...
+> Goodbye!

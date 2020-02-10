@@ -1,0 +1,34 @@
+WELCOME TO QWIRKLE!
+-------------------
+Enter 'help' at any time for a list of commands
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+> Select a menu option from 1-4 and press Enter.
+> -------------------
+
+Name: Kyle Condron
+Student ID: s3717110
+Email: s3717110@student.rmit.edu.au
+
+Name: Simon Hesjevik
+Student ID: s3694451
+Email: s3694451@student.rmit.edu.au
+
+Name: Luke Shuster
+Student ID: s3725150
+Email: s3725150@student.rmit.edu.au
+
+-------------------
+Press enter to return to Menu...
+Menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+> Goodbye!

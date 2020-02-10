@@ -1,0 +1,30 @@
+WELCOME TO QWIRKLE!
+-------------------
+Enter 'help' at any time for a list of commands
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Show Student Information
+4. Quit
+>Please enter the path to the Save Game file
+>BOB's turn
+Score for BOB: 1
+Your hand is:
+O5 R4 O5 G2 O2 R5
+    1  2  3  4  5  6  7  8  9  10  11  12  13
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |B5|  |  |  |  |  |  |
+H |  |  |  |  |R6|Y6|B6|  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> Goodbye!
